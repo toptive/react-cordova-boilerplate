@@ -90,3 +90,7 @@ npm run build:ipa
 ```
 
 The output is an Xcode project, located in subfolder *platforms/ios*. Open a Finder window and navigate to the folder, there you will find the file *Homecaregps.xcodeproj*. Open this file to launch the project in Xcode. From Xcode you can run the app in the iOS simulator, or deploy the app to a devices.
+
+# Credits
+
+This source was generated using [create-react-app](https://github.com/facebook/create-react-app) and [Apache Cordova](https://cordova.apache.org/) projects.
