@@ -76,26 +76,6 @@ Your app is ready to be deployed!
 
 ### Mobile Site
 
-* How to runs the App in development mode
-
-```sh
-npm start # or yarn start
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-* How to builds the App for production mode
-
-```sh
-npm run build
-```
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-### Mobile Site
-
 Apache Cordova is a build system for creating native mobile apps with bundled HTML and JavaScript content. Apps built with Cordova are native apps that can be published on the app stores.
 
 * How to install dependencies
